@@ -9,7 +9,7 @@
     margin:0;
     font-family: 'Nunito', sans-serif;;
 }
-.wrapper-bar .fixed{
+.fixed{
     position: fixed;
     right: 0;
     left: 0;

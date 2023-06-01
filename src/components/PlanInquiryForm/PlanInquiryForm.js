@@ -17,7 +17,7 @@ export default function PlanInquiryForm(props) {
             <div className="mb-4">
             <div className='text-start pb-2'><span className='align-top'>*</span >Type</div>
             <Form.Select aria-label="Default select example" className='form-select-sm w-25' disabled>
-                <option>Plan Inquiry</option>
+                <option>{props.isPlanInquiry ? 'Plan Inquiry' : 'Participant Inquiry'}</option>
             </Form.Select>
             </div>
 
