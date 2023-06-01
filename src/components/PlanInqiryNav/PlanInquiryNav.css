@@ -1,0 +1,26 @@
+.navbar-inverse{
+    background-color: #1e2d39;
+    border-bottom: 4px solid #05c3de;;
+}
+.navbar-brand img{
+    width: 148px;
+    height: 22px;
+    margin-left: 20px;
+
+}
+navbar-right{
+    display: flex !important;
+    justify-content: flex-end;
+}
+.navbar-inverse a{
+    color: #fff;
+    text-decoration: none;
+    cursor: pointer;
+    font-weight: bold;
+}
+.navbar-inverse a:hover{
+    color: #fff;
+}
+.navbar-inverse li{
+    padding: 5px 10px;
+}

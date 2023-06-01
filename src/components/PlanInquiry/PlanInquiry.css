@@ -1,0 +1,57 @@
+.plan-inquiry-container{
+    background-color:#f4f5f6;
+    padding: 10px 10px 40px;
+}
+.form-container{
+    background-color: #fff;
+}
+.form-container .form-text{
+    color: #3b3b3b;
+}
+.btn-primary{
+    color: #ffffff;
+    background-color: #428bca;
+    border-color: #357ebd;
+    font-size: 14px;
+}
+.btn-primary:hover{
+    background-color: #1271c3;
+    border-color: #1271c3;
+}
+.attachment-btn{
+    color: #3b3b3b;
+}
+.required-info {
+    color: #2390b0 !important;
+    background-color: white !important;
+    border: 1px solid #5bc0de;
+}
+.required-info .required{
+    color: #fff;
+    font-size: 10px;
+    padding: 4px 4px;
+    background-color: #DA291C;
+    display: inline;
+    margin: 0 5px;
+    border-radius: 3px;
+    font-weight: bold;
+}
+.form-body{
+    font-size: 14px;
+    padding: 20px;
+}
+
+.form-body :focus {
+    border-color: rgb(118,118,118);
+    box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075), 0 0 8px rgb(118,118,118);
+  }
+.form-body .btn-primary{
+    background-color: #086EA1;
+    padding: 10px 15px;
+}
+.form-body .btn-primary:hover{
+    background-color: #086EA1;
+}
+.form-actions button{
+    cursor: pointer;
+}

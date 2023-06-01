@@ -1,0 +1,24 @@
+.navbar-default {
+    background-color: #fff;
+    border: none;
+    margin-bottom: 0;
+    border-radius: 0;
+    padding-top: 20px;
+    padding-bottom: 5px;
+}
+.link{
+    background-color: #ebebeb;
+    color: #000;
+    background-color: #fff;
+    font-size: 14px;
+    text-align: center;
+    white-space: nowrap;
+    padding: 12px 20px;
+    line-height: 14px;
+    text-transform: uppercase;
+    text-decoration: none;
+}
+.link:hover{
+    background-color: #000!important;
+    color: #fff;
+}
